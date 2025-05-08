@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Proyectos\\ProyectoLibreria\\ProyectoLibreria\\wwwroot\\js\\showmodal.js",
+      "PackagePath": "staticwebassets\\js\\showmodal.js"
+    },
+    {
       "Id": "C:\\Proyectos\\ProyectoLibreria\\ProyectoLibreria\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

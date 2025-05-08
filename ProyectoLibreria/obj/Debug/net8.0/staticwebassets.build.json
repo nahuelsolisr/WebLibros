@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zBFWF3cPCOHppi5P0gOR2VCYRAGYuMMzeqVvHzqVsQo=",
+  "Hash": "tmvqDK29JWTEaLWXZHtCrykCu1HIqvWWN7YDHRJ+fek=",
   "Source": "ProyectoLibreria",
   "BasePath": "_content/ProyectoLibreria",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Proyectos\\ProyectoLibreria\\ProyectoLibreria\\wwwroot\\js\\showmodal.js",
+      "SourceId": "ProyectoLibreria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Proyectos\\ProyectoLibreria\\ProyectoLibreria\\wwwroot\\",
+      "BasePath": "_content/ProyectoLibreria",
+      "RelativePath": "js/showmodal#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09c7ia94jh",
+      "Integrity": "xINURhm/7z0msgYU3PSQkVQS1agWRmfdWVJm80CkB1U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\showmodal.js"
     },
     {
       "Identity": "C:\\Proyectos\\ProyectoLibreria\\ProyectoLibreria\\wwwroot\\js\\site.js",
@@ -1481,6 +1502,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "js/showmodal.09c7ia94jh.js",
+      "AssetFile": "C:\\Proyectos\\ProyectoLibreria\\ProyectoLibreria\\wwwroot\\js\\showmodal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xINURhm/7z0msgYU3PSQkVQS1agWRmfdWVJm80CkB1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 21:35:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09c7ia94jh"
+        },
+        {
+          "Name": "label",
+          "Value": "js/showmodal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xINURhm/7z0msgYU3PSQkVQS1agWRmfdWVJm80CkB1U="
+        }
+      ]
+    },
+    {
+      "Route": "js/showmodal.js",
+      "AssetFile": "C:\\Proyectos\\ProyectoLibreria\\ProyectoLibreria\\wwwroot\\js\\showmodal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xINURhm/7z0msgYU3PSQkVQS1agWRmfdWVJm80CkB1U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 21:35:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xINURhm/7z0msgYU3PSQkVQS1agWRmfdWVJm80CkB1U="
         }
       ]
     },
