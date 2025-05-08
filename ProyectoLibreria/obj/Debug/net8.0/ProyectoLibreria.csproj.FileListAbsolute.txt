@@ -170,3 +170,6 @@ C:\Proyectos\ProyectoLibreria\ProyectoLibreria\obj\Debug\net8.0\refint\ProyectoL
 C:\Proyectos\ProyectoLibreria\ProyectoLibreria\obj\Debug\net8.0\ProyectoLibreria.pdb
 C:\Proyectos\ProyectoLibreria\ProyectoLibreria\obj\Debug\net8.0\ProyectoLibreria.genruntimeconfig.cache
 C:\Proyectos\ProyectoLibreria\ProyectoLibreria\obj\Debug\net8.0\ref\ProyectoLibreria.dll
+C:\Proyectos\ProyectoLibreria\ProyectoLibreria\bin\Debug\net8.0\Firebase.Auth.dll
+C:\Proyectos\ProyectoLibreria\ProyectoLibreria\bin\Debug\net8.0\Firebase.Storage.dll
+C:\Proyectos\ProyectoLibreria\ProyectoLibreria\bin\Debug\net8.0\Newtonsoft.Json.dll

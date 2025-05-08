@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProyectoLibreria.Models;
+using ProyectoLibreria.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,10 @@ builder.Services.AddDbContext<LibreriaContext>(o =>
 {
     o.UseSqlServer(builder.Configuration.GetConnectionString("CadenaSQL"));
 });
+
+builder.Services.AddScoped<IServicioLista, ServicioLista>();
+builder.Services.AddScoped<IServicioImagen, ServicioImagen>();
+builder.Services.AddScoped<IServicioUsuario, ServicioUsuario>();
 
 var app = builder.Build();
 
